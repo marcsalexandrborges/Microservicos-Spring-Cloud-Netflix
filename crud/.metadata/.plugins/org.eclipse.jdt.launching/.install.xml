@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/home/marcos/.sdkman/candidates/java/21.0.2-tem" stamp="1705470942000"/>
+    <entry loc="/home/marcos/.sdkman/candidates/java/17.0.8-oracle" stamp="1699457515000"/>
+    <entry loc="/home/marcos/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.11.v20240426-1830" stamp="1717785319825"/>
+    <entry loc="/home/marcos/.sdkman/candidates/java/17.0.9-tem" stamp="1697615627000"/>
+    <entry loc="/usr/lib/jvm/java-11-openjdk-amd64" stamp="1717764179635"/>
+    <entry loc="/home/marcos/.sdkman/candidates/java/22.3.r17-grl" stamp="1710362858374"/>
+    <entry loc="/home/marcos/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.11.v20240426-1830/jre" stamp="1717785319825"/>
+</dirs>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/home/marcos/.sdkman/candidates/java/21.0.2-tem" version="21.0.2"/>
+    <libraryInfo home="/home/marcos/.sdkman/candidates/java/17.0.8-oracle" version="17.0.8"/>
+    <libraryInfo home="/home/marcos/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.11.v20240426-1830" version="17.0.11"/>
+    <libraryInfo home="/home/marcos/.sdkman/candidates/java/17.0.9-tem" version="17.0.9"/>
+    <libraryInfo home="/usr/lib/jvm/java-11-openjdk-amd64" version="11.0.23"/>
+    <libraryInfo home="/home/marcos/.sdkman/candidates/java/22.3.r17-grl" version="17.0.5"/>
+    <libraryInfo home="/home/marcos/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.11.v20240426-1830/jre" version="17.0.11"/>
+</libraryInfos>
